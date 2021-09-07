@@ -4,3 +4,7 @@
 - 💞️ I’m looking to collaborate on OpenSource Linux Projects, in particular any projects using Clojure! 
 - 📫 How to reach me: sam.palmer93@googlemail.com
 
+Please feel free to look at my solutions in my SICP repository, there are a variety of really interesting problems that will bend your brain
+but dramatically improve your understanding of managing abstractions! 
+
+Here is a link to the book site: https://mitpress.mit.edu/sites/default/files/sicp/full-text/book/book.html
